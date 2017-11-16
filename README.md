@@ -2031,4 +2031,4 @@ Signed,
 - Willem Labuschagne ([@willemlabu](https://github.com/willemlabu)), Developer
 - Mojca Rojko ([@xtrinch](https://github.com/xtrinch)), Programmer, Maribor, Slovenia
 - Sandeep Ranjan (Flame) ([@srsandy](https://github.com/srsandy)), Full Stack Web Developer, New Delhi, India
-- Mohan Kagita ([@kmr0877] (https://github.com/kmr0877)),Graduate Student,UNSW,Sydney
+- Mohan Kagita ([@kmr0877](https://github.com/kmr0877)), Graduate Student,UNSW,Sydney
